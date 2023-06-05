@@ -1,4 +1,4 @@
-# Project Cost Management System ( Matrix Compant Technical Test) 
+# Project Cost Management System ( Matrix Company Technical Test) 
 
 This project is part of the technical test for Matrix Company. It is a simple system designed to manage project costs. The system allows for the definition of projects, different currencies, and the addition of cost executions for each project using various currency units.
 
@@ -23,7 +23,7 @@ Follow these steps to get the project up and running:
 
 1. Clone the repository:
 
-git clone https://github.com/test.git
+git clone https://github.com/mhamd1fareed/test.git
 
 
 2. Change directory to the project:
